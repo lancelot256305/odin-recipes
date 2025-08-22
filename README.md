@@ -8,3 +8,5 @@ HTML file creation
 Ability to create links
 Ability to create lists
 Ability to intergrate images into the website
+
+Still polishing my skills
